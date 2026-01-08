@@ -473,16 +473,6 @@ This system architecture is directly applicable to:
 
 ---
 
-## 🎓 Resume-Ready Achievements
-
-### 💼 For Your Resume/LinkedIn
-
-> **Industrial Defect Detection with Deep Learning**
-> - Built a CNN-based quality control system using ResNet-18 on MVTec AD dataset; achieved **99% accuracy** and **95% recall** with **zero false positives**
-> - Applied **transfer learning**, fine-tuning, and data augmentation to handle class imbalance and texture-based defects
-> - Implemented **Grad-CAM explainability** for spatial defect localization and performed subtype-level error analysis
-> - Optimized decision threshold for industrial deployment, balancing defect recall vs. false alarm rate
-
 ### 🏆 Why This Stands Out
 
 Most portfolios show:
